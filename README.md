@@ -1,2 +1,15 @@
-# AIBLND-Delivering_an_ML-AI_-Strategy
-AI for Business Leaders Nanodegree Project - Delivering an ML/AI Strategy Course Capstone from beta-program (2020JAN). 
+![image01](https://github.com/Ohara124c41/AIBLND-Delivering_an_ML-AI_Strategy/blob/master/images/AIBLND-Final_Presentation-01.png?raw=true)
+![image01](https://github.com/Ohara124c41/AIBLND-Delivering_an_ML-AI_Strategy/blob/master/images/AIBLND-Final_Presentation-02.png?raw=true)
+![image01](https://github.com/Ohara124c41/AIBLND-Delivering_an_ML-AI_Strategy/blob/master/images/AIBLND-Final_Presentation-03.png?raw=true)
+![image01](https://github.com/Ohara124c41/AIBLND-Delivering_an_ML-AI_Strategy/blob/master/images/AIBLND-Final_Presentation-04.png?raw=true)
+![image01](https://github.com/Ohara124c41/AIBLND-Delivering_an_ML-AI_Strategy/blob/master/images/AIBLND-Final_Presentation-05.png?raw=true)
+![image01](https://github.com/Ohara124c41/AIBLND-Delivering_an_ML-AI_Strategy/blob/master/images/AIBLND-Final_Presentation-06.png?raw=true)
+![image01](https://github.com/Ohara124c41/AIBLND-Delivering_an_ML-AI_Strategy/blob/master/images/AIBLND-Final_Presentation-07.png?raw=true)
+![image01](https://github.com/Ohara124c41/AIBLND-Delivering_an_ML-AI_Strategy/blob/master/images/AIBLND-Final_Presentation-08.png?raw=true)
+![image01](https://github.com/Ohara124c41/AIBLND-Delivering_an_ML-AI_Strategy/blob/master/images/AIBLND-Final_Presentation-09.png?raw=true)
+![image01](https://github.com/Ohara124c41/AIBLND-Delivering_an_ML-AI_Strategy/blob/master/images/AIBLND-Final_Presentation-10.png?raw=true)
+![image01](https://github.com/Ohara124c41/AIBLND-Delivering_an_ML-AI_Strategy/blob/master/images/AIBLND-Final_Presentation-11.png?raw=true)
+![image01](https://github.com/Ohara124c41/AIBLND-Delivering_an_ML-AI_Strategy/blob/master/images/AIBLND-Final_Presentation-12.png?raw=true)
+![image01](https://github.com/Ohara124c41/AIBLND-Delivering_an_ML-AI_Strategy/blob/master/images/AIBLND-Final_Presentation-13.png?raw=true)
+![image01](https://github.com/Ohara124c41/AIBLND-Delivering_an_ML-AI_Strategy/blob/master/images/AIBLND-Final_Presentation-14.png?raw=true)
+![image01](https://github.com/Ohara124c41/AIBLND-Delivering_an_ML-AI_Strategy/blob/master/images/AIBLND-Final_Presentation-15.png?raw=true)
