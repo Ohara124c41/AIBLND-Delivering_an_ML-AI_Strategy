@@ -40,7 +40,7 @@ Analyze the diagram and written steps below to familiarize yourself with the sys
 
 ### System diagram of the initial architecture
 
-* [Insert system diagram here]
+* [agentic system](https://github.com/Ohara124c41/AIBLND-Delivering_an_ML-AI_Strategy/blob/master/Agentic-AI-for-Business-Leaders/aibl-c3-project-scope.jpeg)
 
 ---
 
