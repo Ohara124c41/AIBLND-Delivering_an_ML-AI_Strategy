@@ -40,8 +40,8 @@ Analyze the diagram and written steps below to familiarize yourself with the sys
 
 ### System diagram of the initial architecture
 
-(Agentic AI for Business Leaders - Project Scope diagram)[image src=https://raw.githubusercontent.com/Ohara124c41/AIBLND-Delivering_an_ML-AI_Strategy/master/Agentic-AI-for-Business-Leaders/aibl-c3-project-scope.jpeg
- raw=true]
+![Agentic AI for Business Leaders - Project Scope diagram](https://raw.githubusercontent.com/Ohara124c41/AIBLND-Delivering_an_ML-AI_Strategy/master/Agentic-AI-for-Business-Leaders/aibl-c3-project-scope.jpeg)
+
 ---
 
 ## Step 2: Find and fix a bug
